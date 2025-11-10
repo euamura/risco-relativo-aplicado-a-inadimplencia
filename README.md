@@ -97,7 +97,8 @@ Um RR de **1.85** para o grupo “salário baixo” significa que esses clientes
 ## ✨ Autor(a)
 <br>
 Amanda Mendonça (Amura) <br>
-<i>Data Science Undergraduated Student</i>
+<i>Data Science Undergraduate Student</i>
+<br>
 ----
 <br>
 Projeto desenvolvido para fins educacionais e de portfólio.  
