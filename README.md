@@ -72,8 +72,7 @@ Um RR de **1.85** para o grupo “salário baixo” significa que esses clientes
 ```
 📦 risco-relativo-super-caja
  ┣ 📄 README.md
- ┣ 💾 risco_relativo.sql
- ┗ 📊 dashboard_looker.png
+ ┗ 💾 risco_relativo.sql
 ```
 
 ---
